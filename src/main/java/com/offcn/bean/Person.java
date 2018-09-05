@@ -5,5 +5,6 @@ public class Person {
 	System.out.println("初始内容");
 	System.out.println("第一次修改");
 	System.out.println("第二次修改");
+	System.out.println("分支new001修改");
 }
 }
